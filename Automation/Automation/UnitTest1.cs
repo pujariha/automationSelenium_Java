@@ -155,7 +155,7 @@ namespace Automation
                         {
                             return false;
                         }
-
+                        Console.WriteLine("test message to git");
                     }
 
                 }
